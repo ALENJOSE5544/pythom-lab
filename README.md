@@ -1,1 +1,1 @@
-# pythom-lab
+# python-lab
